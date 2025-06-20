@@ -4,6 +4,10 @@
 
 The econdataverse currently is an informal collaboration of Tidy Intelligence, Teal Insights, Promptly Technologies, and the ONE campaign, with Christoph Scheuch as the project lead. We publish details about the governance in this repo as we develop the structure. 
 
+## Roadmap
+
+The roadmap until end of September (fulfillment of the ISC Grant) can be found [here](https://github.com/orgs/econdataverse/projects/1/views/1). 
+
 ## Funding
 
 Here are external funding sources that the econdataverse has received:
