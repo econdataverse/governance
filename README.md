@@ -1,4 +1,4 @@
-# Governance & Funding
+# Governance, Roadmap & Funding
 
 ## Governance
 
